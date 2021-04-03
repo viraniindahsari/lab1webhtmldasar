@@ -25,3 +25,4 @@ jawaban pertanyaan
 4.tidak perlu cukup saja menggunakan atribut widht untuk mengatur ukuran gambar yang kita inginkan.
 
 5.atribut target digunakan untuk menetapkan di jendela atau diframe yang mana suatu dokumen dengan link yang akan ditampilkan atau diuat disuatu browser google crome.
+
